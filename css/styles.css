@@ -1,0 +1,49 @@
+body {
+  padding: 20px;
+}
+
+img.rounded-image {
+  border-radius: 12px;
+  width: 250px;
+}
+
+.sidebar {
+  float: left;
+  height: 100%;
+}
+
+.links {
+  margin-top: 20px;
+  width: 250px;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+}
+
+a.link-item {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  text-align: center;
+  text-decoration: none;
+  color: #000;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+a.link-item:hover {
+  background-color: #ccc;
+  border-radius: 12px;
+}
+
+.project-list {
+  margin-top: 20px;
+  width: 250px;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+}
