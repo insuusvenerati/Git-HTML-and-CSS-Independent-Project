@@ -52,6 +52,7 @@ a.link-item:hover {
 .project-item {
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   gap: 10px;
   padding: 10px;
   border: 1px solid #ccc;
@@ -80,5 +81,9 @@ a.link-item:hover {
 
 .project-item img {
   border-radius: 12px;
-  width: 250px;
+  width: 100%;
+}
+
+.project-item img:hover {
+  box-shadow: 0 0 10px #ccc;
 }
