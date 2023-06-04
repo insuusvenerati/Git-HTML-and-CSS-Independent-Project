@@ -2,6 +2,8 @@
 
 #### By Sean Norwood
 
+https://insuusvenerati.github.io/Git-HTML-and-CSS-Independent-Project/
+
 #### Website showing works by Sean Norwood
 
 ## Technologies Used
